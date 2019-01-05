@@ -1,0 +1,11 @@
+- add a layout
+  - basic HTML page
+  - index page
+  - post page
+  - pagination
+  - list of posts by year/month
+  - list of tags
+  - list of posts by a tag
+  - about
+- add GA code
+- publish it via Netlify
