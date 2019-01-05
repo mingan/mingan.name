@@ -1,8 +1,13 @@
 ---
-title: "The world's economy went down hill so fast that Swiss people banged cow bells at it"
-date: 2019-01-03T19:30:57+01:00
-draft: true
-tags: [podcast, The Bugle, fun]
+title: >-
+  The world's economy went down hill so fast that Swiss people banged cow bells
+  at it
+date: 2019-01-03T18:30:57.000Z
+tags:
+  - podcast
+  - The Bugle
+  - fun
+draft: false
 ---
 
 > The world's economy went down hill so fast that Swiss people banged cow bells at it
