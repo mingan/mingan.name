@@ -1,8 +1,10 @@
 ---
-title: "Strength Training and Mobility on Full Stack Radio, ep. 105"
-date: 2019-01-04T19:46:39+01:00
-draft: true
-tags: [podcast, sport]
+title: 'Strength Training and Mobility on Full Stack Radio, ep. 105'
+date: 2019-01-04T18:46:39.000Z
+tags:
+  - podcast
+  - sport
+draft: false
 ---
 
 - <cite>[Starting Strength](https://www.goodreads.com/book/show/2098799.Starting_Strength)</cite> by Mark Rippetoe, book about anatomy and physiology of strength training and weight lifting
