@@ -1,11 +1,12 @@
 - add a layout
   - basic HTML page
-  - index page
+  - ~~index page~~
   - post page
-  - pagination
+  - ~~pagination~~
   - list of posts by year/month
   - list of tags
   - list of posts by a tag
   - about
-- add GA code
-- publish it via Netlify
+  - favicon 32, 144 (apple touch)
+- ~~add GA code~~
+- ~~publish it via Netlify~~
