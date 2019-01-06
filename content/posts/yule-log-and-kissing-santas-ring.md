@@ -4,7 +4,7 @@ date: 2019-01-06T10:29:26.445Z
 tags:
   - podcast
   - fun
-draft: true
+draft: false
 ---
 Basically the whole episode of <cite>[My Dad Wrote a Christmas Porno 3](https://www.acast.com/mydadwroteaporno/mydadwroteachristmasporno3)</cite> is excellent. Two parts stand out:
 
