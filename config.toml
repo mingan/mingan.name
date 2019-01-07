@@ -1,7 +1,10 @@
 baseURL = "https://www.mingan.name/"
 languageCode = "en-us"
-title = "Mingan"
+title = "Site title TBD"
 
 googleAnalytics = "UA-4390702-4"
 
 paginate = 2
+
+[params]
+copyright = "2018-"
