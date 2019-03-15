@@ -5,4 +5,4 @@ tags:
   - fun
 draft: false
 ---
-https://twitter.com/_Karoliinka_/status/1105538422582718464
+{{< tweet https://twitter.com/_Karoliinka_/status/1105538422582718464 >}}
