@@ -1,6 +1,6 @@
 ---
 title: 'The Bugle, ep. 233: Baby got hack'
-date: 2019-03-15T10:21:19.196Z
+date: 2019-03-18T10:21:00.000Z
 tags:
   - podcast
   - fun
