@@ -1,6 +1,6 @@
 ---
 title: 'The Bugle, ep. 236: Tennis raquet marries guinea pig'
-date: 2019-03-15T10:21:19.196Z
+date: 2019-03-20T07:21:00.000Z
 tags:
   - pocast
   - fun
