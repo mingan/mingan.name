@@ -1,5 +1,5 @@
 ---
-title: 'The Bugle, ep. 4023'
+title: 'The Bugle, ep. 4023: World turned upside down'
 date: 2019-06-09T17:44:55.246Z
 tags:
   - podcast
