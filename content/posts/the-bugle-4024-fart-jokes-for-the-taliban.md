@@ -11,3 +11,5 @@ draft: false
 
 - comparing bleaching of The Great Coral Reef to anal bleaching
 - introduction to tentacle hentai
+- Sean Spicer's gag reflex making him perfect for a backup career in porn
+- _springing to public consciousness like a ball of jizz into your eye_
