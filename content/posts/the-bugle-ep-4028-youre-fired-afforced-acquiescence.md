@@ -9,3 +9,4 @@ draft: false
 ---
 Anuvab Pal
 Mad judge in India with his home court
+Absolutely superb Indian court decision English
